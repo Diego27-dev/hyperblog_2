@@ -1,5 +1,6 @@
 Hola soy Diego 
 
-Tengo 26 años
+Tengo 27 años
+Estoy en la escuela de data Science.
 
 Estoy aprendiendo git y github en platzi
