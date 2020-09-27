@@ -3,4 +3,6 @@ Hola soy Diego
 Tengo 26 
 Trabaja como Developer en Keos.
 
+Estoy aprendiendo en la escuela de data science.
+
 Estoy aprendiendo git y github en platzi
