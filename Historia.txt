@@ -3,6 +3,10 @@ Hola soy Diego
 Tengo 26 
 Trabaja como Developer en Keos.
 
+Y Annita Platzi Tiene como 22  y hará el header de este proyecto
+
+Gracias por leer el contenido que agregó Annita
+
 Estoy aprendiendo en la escuela de data science.
 
 Estoy aprendiendo git y github en platzi
